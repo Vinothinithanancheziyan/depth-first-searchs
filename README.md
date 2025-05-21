@@ -69,6 +69,7 @@ G F <BR>
 F H <BR>
 <hr>
 <h3>Sample Output</h3>
+
 ![Image](https://github.com/user-attachments/assets/18f74901-9bd1-4241-aa6c-3fb75b4b8b96)
 
 <hr>
@@ -82,6 +83,7 @@ F H <BR>
 2 4 <BR>
 <hr>
 <h3>Sample Output</h3>
+
 ![Image](https://github.com/user-attachments/assets/ff072366-7723-4b52-84cc-a25214a10954)
 
 <hr>
